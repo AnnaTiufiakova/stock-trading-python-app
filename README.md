@@ -28,9 +28,9 @@ cd stock-trading-python-app
 
 2. Create a virtual environment & install dependencies:
 ```
-python -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
+python -m venv pythonenv
+source pythonenv/bin/activate   # Mac/Linux
+pythonenv\Scripts\activate      # Windows
 pip install -r requirements.txt
 ```
 
