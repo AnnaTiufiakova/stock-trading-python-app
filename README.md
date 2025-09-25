@@ -11,11 +11,11 @@ A Python pipeline that connects to the Polygon.io (https://polygon.io/) REST API
  • Scheduling with the schedule library (future step: Airflow or GitHub Actions)
 
 ## 📂 Project Structure
- .
-├── script.py          # Extracts stock tickers and saves to CSV
-├── tickers.csv        # Output data (generated after running script)
-├── .env               # Stores Polygon.io API key (not committed to repo)
-├── requirements.txt   # Python dependencies
+ 
+├── script.py          # Extracts stock tickers and saves to CSV<br>
+├── tickers.csv        # Output data (generated after running script)<br>
+├── .env               # Stores Polygon.io API key (not committed to repo)<br>
+├── requirements.txt   # Python dependencies<br>
 └── README.md          # Project documentation
 
 ## ⚙️ Setup & Installation
