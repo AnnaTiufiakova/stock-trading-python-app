@@ -1,4 +1,5 @@
 # Stock Trading Data Extractor
+![Stock Trading Data Extractor](stock_tickers.png)
 
 A Python pipeline that connects to the Polygon.io (https://polygon.io/) REST API to extract live stock ticker data, handle pagination, and store the results in Snowflake for downstream analysis.
 
