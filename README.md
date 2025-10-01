@@ -57,7 +57,7 @@ This will fetch stock tickers from Polygon.io and insert them into the stock_tic
  • Python → Data extraction & automation<br>
  • Requests → API communication<br>
  • dotenv → Manage API keys securely<br>
- • Snowflakr → CLoud data warehouse for scalable storage and querying <br>
+ • Snowflake → Cloud data warehouse for scalable storage and querying <br>
  • time.sleep() → Rate limiting control
 
 ## 🔜 Planned:<br>
